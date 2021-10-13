@@ -1,2 +1,4 @@
 
- GitBash / Ej_1_Repositorio_Local_ 
+ GitBash / Ej_1_ Repositorio_Local & Repositorio Remoto 
+
+.
